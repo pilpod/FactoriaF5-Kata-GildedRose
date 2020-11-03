@@ -101,4 +101,5 @@ class GildedRoseTest extends TestCase
 
 		$this->assertEquals(0, $backstage->quality);
 	}
+	
 }
