@@ -6,7 +6,7 @@ namespace App;
 
 class GildedRose
 {
-
+    
     public static function updateQuality($items)
     {
         for ($i = 0; $i < count($items); $i++) {
